@@ -1,0 +1,9 @@
+business 
+ <Route path="/sports "><News pagesize={10} category ='general'/></Route>
+ <Route path="/entertainment "><News pagesize={10} category ='entertainment'/></Route>
+ <Route path="/health "><News pagesize={10} category ='health'/></Route>
+ <Route path="/science "><News pagesize={10} category ='science'/></Route>
+ <Route path="/technology"><News pagesize={10} category ='technology'/></Route>
+
+
+ <Route path="/"><News pagesize={10} category ='general'/></Route>
